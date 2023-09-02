@@ -1,5 +1,8 @@
 {
-  "siteId": 8,
-  "namespace": "deco-sites/start",
-  "imports": ["$live/live.gen.ts", "deco-sites/std/live.gen.ts"]
+  "siteId": 2326,
+  "namespace": "deco-sites/fitra-dottore",
+  "imports": [
+    "$live/live.gen.ts",
+    "deco-sites/std/live.gen.ts"
+  ]
 }
